@@ -1,6 +1,6 @@
 name: radix_icons
 description: A crisp set of 15x15 icons from radix-ui designed by the @workos team
-version: 0.1.0
+version: 1.0.0
 homepage: https://github.com/mastersam07/radix_icons
 repository: https://github.com/mastersam07/radix_icons
 issue_tracker: https://github.com/mastersam07/radix_icons/issues
@@ -9,6 +9,10 @@ topics:
  - icon
  - ui
  - ui-design
+
+screenshots:
+  - description: The radix-ui logo.
+    path: screenshots/radixlogo.png
 
 environment:
   sdk: '>=2.12.0 <4.0.0'
