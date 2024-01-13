@@ -1,0 +1,34 @@
+name: radix_icons
+description: A crisp set of 15x15 icons from radix-ui designed by the @workos team
+version: 0.0.1
+homepage: https://github.com/mastersam07/radix_icons
+repository: https://github.com/mastersam07/radix_icons
+issue_tracker: https://github.com/mastersam07/radix_icons/issues
+topics:
+ - icons
+ - icon
+ - ui
+ - ui-design
+
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+  fonts:
+   - family: radixicon
+     fonts:
+      - asset: fonts/radixicon.ttf
