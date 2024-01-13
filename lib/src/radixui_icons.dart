@@ -332,6 +332,5 @@ class RadixIcons {
   static const IconData Zoom_Out = RadixIconData(0xea53, _fontFamily);
 }
 
-
 // TODO (Codefarmer): Rename icons with lower camelcase identifier
 // TODO: (?<=static const IconData )([A-Z][a-z]+)(_([A-Z][a-z]+))+
