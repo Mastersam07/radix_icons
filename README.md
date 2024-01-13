@@ -12,7 +12,7 @@ A crisp set of 15x15 icons from radix-ui designed by the @workos team
 In the `dependencies:` section of your _pubspec.yaml_, add the following line:
 
 ```yaml
-radix_icons: ^0.0.1
+radix_icons: ^0.1.0
 ```
 
 ## 🎮 Usage
@@ -41,7 +41,7 @@ class MyAwesomeWidget extends StatelessWidget {
 View the flutter app in the `example` directory
 
 ## Screenshot
-<img src="https://github.com/Mastersam07/radix_icons/raw/master/screenshots/1.jpg" width="400">
+<img src="https://github.com/Mastersam07/radix_icons/raw/master/screenshots/1.png" width="400">
 
 ## 🐛 Bugs/Requests
 
