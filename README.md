@@ -12,7 +12,7 @@ A crisp set of 15x15 icons from radix-ui designed by the @workos team
 In the `dependencies:` section of your _pubspec.yaml_, add the following line:
 
 ```yaml
-radix_icons: ^1.0.0
+radix_icons: ^1.0.1
 ```
 
 ## 🎮 Usage

@@ -18,6 +18,6 @@ void main() {
   });
 
   test('Test icon package name', () {
-    expect(RadixIcons.Accessibility.fontPackage, 'radixicon');
+    expect(RadixIcons.Accessibility.fontPackage, 'radix_icons');
   });
 }
